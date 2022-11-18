@@ -1,0 +1,16 @@
+John Glenn High School       0.000      1
+88   Montgomery Blair High School       0.216     37
+176         San Marin High School       0.000      1
+228         Chaparral High School       0.500      2
+240    Mountain Vista High School       1.000      1
+472           I'm in? Grad School       0.327    245
+504           I'm in? High School 
+
+
+ Segment Type          Segment Description     Answer  total
+418       Custom              I'm in? College   Snapchat   4219
+286   University  College of William and Mary   Snapchat     39
+34    University            Hillsdale College   Snapchat      1
+120   University                Smith College  Instagram      1
+160   University            Dartmouth College  Instagram      1
+221   University    Claremont McKenna College   Facebook      1
